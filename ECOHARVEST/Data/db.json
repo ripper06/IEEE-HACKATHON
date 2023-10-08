@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Left over dal",
+            "location": "sailashreevihar"
+        },
+        {
+            "id": 2,
+            "title": "Left over rice",
+            "location": "sailashreevihar"
+        },
+        {
+            "id": 3,
+            "title": "Left over curry",
+            "location": "sailashreevihar"
+        }
+    ]
+}

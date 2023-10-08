@@ -2,7 +2,7 @@
 
 ## Project Name: ECOHARVEST ##
 
-* **Theme :**
+###1. Theme :###
  * EcoHarvest is a web-based platform designed to bridge the gap between surplus food providers and 
    individuals or organizations in need. Its core idea is to create an efficient and user-friendly system 
    where surplus food, which might otherwise go to waste, can be redirected to those who can benefit from 
@@ -12,7 +12,7 @@
    participate actively in reducing food waste. It fosters a culture of waste reduction and responsible 
    consumption.
 
-* **Uniqueness:**
+###2. Uniqueness:###
  * Our platform has the potential to address this critical issue head-on. By efficiently redistributing 
   surplus food to those in need, we aspire to eliminate both food wastage and hunger simultaneously. This 
   dual-purpose approach not only tackles a major societal problem but also aligns with our mission to 
@@ -30,12 +30,13 @@
   where EcoHarvest not only reduces food waste but also serves as a catalyst for positive change within 
   India's food ecosystem.
  
-* **Flow chat:**
+###3. Operational Blueprint:###
+
 ![image](https://github.com/ripper06/IEEE-HACKATHON/assets/138066281/1f862f97-eb15-4a46-a5bb-deaa99b97f77)
 
-* **PPT:**
-[EcoHarvest1.pptx](https://github.com/ripper06/IEEE-HACKATHON/files/12840100/EcoHarvest1.pptx)
+###4. PPT:###
+[Download the PPT here](https://github.com/ripper06/IEEE-HACKATHON/files/12840100/EcoHarvest1.pptx).
 
-* **Deployment:**
+###5. Deployment:###
 [Our prototype is live](https://ieee-ecoharvest-5127gdhod-ripper06s-projects.vercel.app/index.html).
 

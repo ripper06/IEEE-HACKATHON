@@ -1,4 +1,4 @@
-![image](https://github.com/ripper06/IEEE-HACKATHON/assets/138066281/de519656-24c6-4085-ba3a-a69b7bafa01d)# IEEE-HACKATHON #
+# IEEE-HACKATHON #
 
 ## Project Name: ECOHARVEST ##
 

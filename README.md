@@ -40,3 +40,6 @@
 ### 5. Deployment: ###
 [Our prototype is live](https://ieee-ecoharvest.vercel.app/).
 
+### 6. Video: ###
+[Download the ppt here](https://github.com/ripper06/IEEE-HACKATHON/raw/main/EcoHarvestVid.mp4).
+

@@ -38,5 +38,5 @@
 [Download the PPT here](https://github.com/ripper06/IEEE-HACKATHON/files/12840100/EcoHarvest1.pptx).
 
 ### 5. Deployment: ###
-[Our prototype is live](https://ieee-ecoharvest-5127gdhod-ripper06s-projects.vercel.app/index.html).
+[Our prototype is live](https://ieee-ecoharvest.vercel.app/).
 

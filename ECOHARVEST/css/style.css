@@ -917,3 +917,20 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+/* login part */
+
+.select-role{
+  height: 80vh;
+  display: flex;
+  justify-content: space-around;
+  padding: 10rem;
+}
+
+
+
+
+
